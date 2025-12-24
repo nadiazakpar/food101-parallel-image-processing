@@ -1,0 +1,6 @@
+food-101/
+output/
+__pycache__/
+*.pyc
+benchmark_logs/
+.DS_Store
